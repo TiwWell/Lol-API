@@ -4,7 +4,7 @@ spring:
       matching-strategy: ant_path_matcher
 
   datasource:
-    url: jdbc:sqlserver:postgresql://localhost:5432/LoL;database=StudyDB;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:postgresql://localhost:5432/LoL
     username: Admin
     password: 123456
   jpa:
