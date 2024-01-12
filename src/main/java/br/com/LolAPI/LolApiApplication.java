@@ -1,4 +1,4 @@
-package com.example.LolAPI;
+package br.com.LolAPI;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
